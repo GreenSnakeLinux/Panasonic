@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Panasonic</string>
+
+    <string-array name="action_array">
+        <item>NRC_POWER-ONOFF</item>
+        <item>NRC_EPG-ONOFF</item>
+        <item>NRC_PLAY-ONOFF</item>
+        <item>NRC_REW-ONOFF</item>
+        <item>NRC_FF-ONOFF</item>
+        <item>NRC_MUTE-ONOFF</item>
+        <item>NRC_VOLUP-ONOFF</item>
+        <item>NRC_VOLDOWN-ONOFF</item>
+        <item>NRC_ENTER-ONOFF</item>
+        <item>NRC_RETURN-ONOFF</item>
+        <item>NRC_CH_UP-ONOFF</item>
+        <item>NRC_CH_DOWN-ONOFF</item>
+        <item>NRC_UP-ONOFF</item>
+        <item>NRC_DOWN-ONOFF</item>
+        <item>NRC_LEFT-ONOFF</item>
+        <item>NRC_RIGHT-ONOFF</item>
+        <item>NRC_D0-ONOFF</item>
+        <item>NRC_D1-ONOFF</item>
+        <item>NRC_D2-ONOFF</item>
+        <item>NRC_D3-ONOFF</item>
+        <item>NRC_D4-ONOFF</item>
+        <item>NRC_D5-ONOFF</item>
+        <item>NRC_D6-ONOFF</item>
+        <item>NRC_D7-ONOFF</item>
+        <item>NRC_D8-ONOFF</item>
+        <item>NRC_D9-ONOFF</item>
+        <item>NRC_STOP-ONOFF</item>
+        <item>NRC_PAUSE-ONOFF</item>
+        <item>NRC_SKIP_PREV-ONOFF</item>
+        <item>NRC_SKIP_NEXT-ONOFF</item>
+        <item>NRC_3D-ONOFF</item>
+        <item>NRC_SD_CARD-ONOFF</item>
+        <item>NRC_DISP_MODE-ONOFF</item>
+        <item>NRC_INTERNET-ONOFF</item>
+        <item>NRC_VIERA_LINK-ONOFF</item>
+        <item>NRC_TEXT-ONOFF</item>
+        <item>NRC_INDEX-ONOFF</item>
+        <item>NRC_HOLD-ONOFF</item>
+        <item>NRC_CHG_INPUT-ONOFF</item>
+        <item>NRC_CANCEL-ONOFF</item>
+        <item>NRC_R_TUNE-ONOFF</item>
+        <item>NRC_REC-ONOFF</item>
+        <item>NRC_RED-ONOFF</item>
+        <item>NRC_GREEN-ONOFF</item>
+        <item>NRC_BLUE-ONOFF</item>
+        <item>NRC_YELLOW-ONOFF</item>
+        <item>NRC_TV-ONOFF</item>
+        <item>NRC_MENU-ONOFF</item>
+        <item>NRC_VTOOLS-ONOFF</item>
+        <item>NRC_SUBMENU-ONOFF</item>
+        <item>NRC_INFO-ONOFF</item>
+        <item>NRC_STTL-ONOFF</item>
+    </string-array>
+</resources>

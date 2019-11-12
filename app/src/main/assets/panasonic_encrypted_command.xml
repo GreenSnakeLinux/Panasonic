@@ -1,0 +1,7 @@
+<X_SessionId>session_id_elem</X_SessionId>
+<X_SequenceNumber>seq_num_elem</X_SequenceNumber>
+<X_OriginalCommand>
+	<body_elem:action_elem xmlns:body_elem="urn:urn_elem">
+	params_elem
+	</body_elem:action_elem>
+</X_OriginalCommand>
