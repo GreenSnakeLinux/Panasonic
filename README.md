@@ -6,9 +6,9 @@ Remote for Panasonic Smart TV for Android Smartphone
 First commit of the Android java version of the Panasonic remote python project :
 https://github.com/florianholzapfel/panasonic-viera
 
-On the TV an option is mandatory to set ON:
-Network > TV Remote App Settings > TV Remote
-See configuration tab:
+On the TV an option is mandatory to set ON:<br>
+Network > TV Remote App Settings > TV Remote<br>
+See configuration tab:<br>
 https://av.jpn.support.panasonic.com/support/global/cs/tv/vremote2/android/index.html
 
 NOT YET TESTED
